@@ -14,7 +14,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
-## YouTube
+
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
